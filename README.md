@@ -2,9 +2,9 @@
 
 
 ### Project Motivation:
-In this project. I made use of the data engineering concepts to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+In this project data engineering concepts are mainly used to analyze disaster data from [Figure Eight](https://appen.com/ "Figure Eight") to build a model for an API that classifies disaster messages.
 
-The datasets used contain real messages that were sent during disaster events. I created a machine learning pipline to categorize these event to reach out for a relevant relief agency.
+The datasets used contain real messages that were sent during disaster events.Machine learning pipline is build to categorize these event to reach out for a relevant relief agency.
 
 ### File Structure:
 
@@ -45,3 +45,6 @@ The datasets used contain real messages that were sent during disaster events. I
 ![](https://video.udacity-data.com/topher/2018/September/5b967bef_disaster-response-project1/disaster-response-project1.png)
 ![](https://video.udacity-data.com/topher/2018/September/5b967cda_disaster-response-project2/disaster-response-project2.png)
 
+### Acknowledgements
+
+Many thanks to Figure-8 for making this available to Udacity for training purposes. Special thanks to udacity for the training. Feel free to utilize this repo.
